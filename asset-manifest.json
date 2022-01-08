@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-router-app/static/css/main.5f8c9f35.css",
+    "main.js": "/react-router-app/static/js/main.e5537141.js",
+    "static/js/787.fa81980e.chunk.js": "/react-router-app/static/js/787.fa81980e.chunk.js",
+    "static/media/Mars.png": "/react-router-app/static/media/Mars.ad95b74777ded0834e11.png",
+    "static/media/Falcon9.jpeg": "/react-router-app/static/media/Falcon9.b2873e4ee4a3c3910387.jpeg",
+    "static/media/storms2.jpeg": "/react-router-app/static/media/storms2.ca2b89124abc8ba5e32a.jpeg",
+    "static/media/storms1.jpeg": "/react-router-app/static/media/storms1.d00441e7f988b566494a.jpeg",
+    "static/media/storms3.jpeg": "/react-router-app/static/media/storms3.952601f3724200b2e5b4.jpeg",
+    "static/media/Nebula.jpeg": "/react-router-app/static/media/Nebula.ffaa38079c0835155d22.jpeg",
+    "static/media/hubble.jpeg": "/react-router-app/static/media/hubble.60bba08a0fcf9759873d.jpeg",
+    "static/media/Space_hub.jpeg": "/react-router-app/static/media/Space_hub.1145e6427be60da5a186.jpeg",
+    "index.html": "/react-router-app/index.html",
+    "main.5f8c9f35.css.map": "/react-router-app/static/css/main.5f8c9f35.css.map",
+    "main.e5537141.js.map": "/react-router-app/static/js/main.e5537141.js.map",
+    "787.fa81980e.chunk.js.map": "/react-router-app/static/js/787.fa81980e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f8c9f35.css",
+    "static/js/main.e5537141.js"
+  ]
+}
