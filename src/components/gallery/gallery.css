@@ -1,0 +1,27 @@
+.gallery-main {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.gallery-photo {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.gallery-img {
+  width: 33%;
+  border: 1px solid black;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
